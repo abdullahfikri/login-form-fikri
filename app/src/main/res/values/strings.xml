@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Registration - Fikri</string>
+    <string name="name">Name</string>
+    <string name="email">Email ID</string>
+    <string name="password">Password</string>
+    <string name="passwordConfirm">Confirm Password</string>
+    <string name="number_phone">Enter Mobile</string>
+</resources>
